@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/ocw_243_lecture25_2024may10_v2_transcript.pdf
+file: courses/advanced-thermodynamics/ocw_243_lecture25_2024may10_v2_transcript.pdf
 file_size: 81395
 file_type: application/pdf
 image_metadata:

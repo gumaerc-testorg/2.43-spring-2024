@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/empty.png
+file: courses/advanced-thermodynamics/empty.png
 file_size: 8206
 file_type: image/png
 image_metadata:
