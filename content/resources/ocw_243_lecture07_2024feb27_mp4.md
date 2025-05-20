@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/ocw_243_lecture07_2024feb27_360p_16_9.mp4
+file: courses/advanced-thermodynamics/ocw_243_lecture07_2024feb27_360p_16_9.mp4
 file_size: 152161019
 file_type: video/mp4
 image_metadata:
