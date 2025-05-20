@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_lec11.pdf
+file: courses/advanced-thermodynamics/mit2_43_s24_lec11.pdf
 file_size: 1981142
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_new.jpg
+file: courses/advanced-thermodynamics/mit2_43_s24_new.jpg
 file_size: 162073
 file_type: image/jpeg
 image_metadata:
