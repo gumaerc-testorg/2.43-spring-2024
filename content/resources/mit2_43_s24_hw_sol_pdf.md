@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/advanced-thermodynamics/mit2_43_s24_hw_sol.pdf
+file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_hw_sol.pdf
 file_size: 583208
 file_type: application/pdf
 image_metadata:
