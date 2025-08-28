@@ -63,7 +63,6 @@
     "website": "advanced-thermodynamics"
   },
   "learning_resource_types": [
-    "Online Textbook",
     "Instructor Insights",
     "Lecture Notes",
     "Lecture Videos",
@@ -71,5 +70,6 @@
     "Exams"
   ],
   "site_uid": "1eed039f-4b98-4328-a880-ed8c7c1173ac",
-  "site_short_id": "2.43-spring-2024"
+  "site_short_id": "2.43-spring-2024",
+  "site_url_path": "courses/2-43-advanced-thermodynamics-spring-2024"
 }
