@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/advanced-thermodynamics/ocw_243_lecture09_2024mar05_v2_captions.vtt
+file: /ol-ocw-studio-app/courses/2-43-advanced-thermodynamics-spring-2024/ocw_243_lecture09_2024mar05_v2_captions.vtt
 file_size: 128913
 file_type: text/vtt
 image_metadata:
